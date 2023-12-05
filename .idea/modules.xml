@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BreastCancerEvaluator.iml" filepath="$PROJECT_DIR$/.idea/BreastCancerEvaluator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Logistic Regression/.idea/Logistic Regression.iml" filepath="$PROJECT_DIR$/../Logistic Regression/.idea/Logistic Regression.iml" />
+    </modules>
+  </component>
+</project>
