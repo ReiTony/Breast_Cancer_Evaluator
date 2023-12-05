@@ -1,2 +1,2 @@
 # Breast_Cancer_Evaluator
-Explore breast cancer diagnosis using machine learning. This Python project analyzes the Wisconsin Breast Cancer Data Set, emphasizing data preprocessing, EDA, and logistic regression classification. Contribute, learn, and leverage for educational insights.
+This serves as a comprehensive guide to breast cancer diagnosis and prediction using machine learning. Through data preprocessing, exploratory data analysis, and logistic regression implementation, the goal is to contribute to the early detection of breast cancer and advance research in the field. The Wisconsin Breast Cancer Data Set, with its rich attributes and features, provides a valuable resource for developing and evaluating machine learning models in the domain of oncology.
